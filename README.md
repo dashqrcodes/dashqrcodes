@@ -17,28 +17,30 @@ Retired LAFD Firefighter · 23 Years · Redondo Beach, CA
 
 ### The Short Version
 
-California native. Proud girl dad (19 & 23). Empty nester in full-time startup mode. 23 years at LAFD. Retired to build DASH after a friend and fellow firefighter, **Kelly Wong**, died in the line of duty. So that he wouldn't be forgotten, I replaced the dash between the dates of birth and death with a metal QR code that shows his slideshow tribute.
+California native. Proud girl dad (19 & 23). Empty nester in full-time startup mode. 23 years at LAFD. Retired to build DASH after a friend and fellow firefighter, **Kelly Wong**, died in the line of duty. So that he wouldn't be forgotten, I replaced the dash between the dates of birth and death with a metal QR code that shows his slideshow tribute. That process was more difficult than it should have been so I launched DASH. 
 
 That was the beginning.
 
 ---
 
-### What I'm Building
+### What we're Building
 
 <table>
 <tr>
 <td width="50%">
 
-**DASH Memories** makes a beautiful way to remember a loved one by allowing users to easily add videos to physical objects — printed cards, a bronze plaque, urn, photo block. Scan the keepsake with your phone to see a life story.
+**DASH Memories** makes a beautiful way to remember a loved one by allowing users to easily add video stories of their loved ones onto print-on-demand by adding a DASH QR code in the design/check-out step for: printed cards, bronze plaques, urns, photo blocks, etc. Once the order is fullfilled, just scan the keepsake with your phone to see a life story.
 
-I validated this on foot. Door-to-door. One family at a time.
+I validated this on foot. Funeral homes in L.A. and S.F. Door-to-door. One family at a time. 0 to 1. 
 
 - 400+ paying customers
 - 30,000+ printed cards and keepsakes
 - $70K lifetime revenue
-- 98% customer satisfaction
+- 98% customer satisfaction (2% were hard lessons we apply to QC today)
 - 30+ old photos animated with AI — families saw their loved ones young and free... in "heaven"
-- Bootstrapped with $30K+ of my own money
+- Bootstrapping
+
+  
 
 </td>
 <td width="50%">
