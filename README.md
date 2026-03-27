@@ -81,11 +81,14 @@ Build an AI photo cloud for the living that can also be used to honor the dead.
 2005   Promoted to Apparatus Operator — ranked #7 out of 200.
 2018   Kelly Wong dies in the line of duty. The idea for DASH is born.
 2020   First QR code memorial. dashqrcodes.com. The grind begins.
+2021   DASH trademark registered.
 2022   Retired from LAFD after 23 years.
 2023   Swift, HTML, JavaScript coding bootcamps.
-2024   DASH trademark registered. Delaware C Corp (Carta + Clerky).
-2025   Supabase Select SF. 400+ customers. Full-time founder.
-2026   DASH Memories Inc. Three repos. One mission.
+2025   Supabase Select SF. 400+ customers.
+2025   Full-time founder DASH Memories, Inc.
+2025   Delaware C Corp (Carta + Clerky).
+2026   CTO CoFounder joined — Prem Krishnamurthy.
+2026   Three repos. One mission.
 ```
 
 ---
