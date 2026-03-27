@@ -29,7 +29,7 @@ That was the beginning.
 <tr>
 <td width="50%">
 
-**DASH Memories** makes physical keepsakes come alive. Scan a QR code on a plaque, urn, or photo block — a tribute page opens with photos, video, and the story of a life.
+**DASH Memories** makes a beautiful way to remember a loved one by allowing users to easily add videos to physical objects — printed cards, a bronze plaque, urn, photo block. Scan the keepsake with your phone to see a life story.
 
 I validated this on foot. Door-to-door. One family at a time.
 
