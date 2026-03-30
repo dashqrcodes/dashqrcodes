@@ -81,10 +81,10 @@ Build an AI photo cloud for the living that can also be used to honor the dead.
 1997   US Forestry Service. Chainsaw operator. Type 2 crew.
 1999   LAFD. Top 100 out of 30,000 applicants. Youngest to graduate.
 2005   Promoted to Apparatus Operator — ranked #7 out of 200.
-2018   Kelly Wong dies in the line of duty. The idea for DASH is born.
+2017   Kelly Wong dies in the line of duty. The idea for DASH is born.
 2020   First QR code memorial. dashqrcodes.com. The grind begins.
-2021   DASH trademark registered.
-2022   Retired from LAFD after 23 years.
+2020   DASH trademark registered. Validation. Research 
+2022   Retired from LAFD after 23 years for DASH. 
 2023   Swift, HTML, JavaScript coding bootcamps.
 2025   Supabase Select SF. 400+ customers.
 2025   Full-time founder DASH Memories, Inc.
