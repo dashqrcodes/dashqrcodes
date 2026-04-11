@@ -31,7 +31,7 @@ That was the beginning.
 
 **DASH Memories** makes a beautiful way to remember a loved one by allowing users to easily add video stories of their loved ones onto print-on-demand by adding a DASH QR code in the design/check-out step for: printed cards, bronze plaques, urns, photo blocks, etc. Once the order is fullfilled, just scan the keepsake with your phone to see a life story.
 
-I validated this on foot. Funeral homes in L.A. and S.F. Door-to-door. One family at a time. 0 to 1. 
+I validated this on foot. Funeral homes in L.A. and S.F. Door-to-door. One family at a time. 0 to 1. At the request of a funeral customer, I included printed products in 2022. Serendipitous moment: the first printed order was fulfilled at 4Printings on El Camino Real in Mt. View, CA in the exact building that was formerly the Byte Shop that, in 1976, sold the very first Apple computers from Steve Jobs and Steven Woznicak. 
 
 - 400+ paying customers
 - 30,000+ printed cards and keepsakes
