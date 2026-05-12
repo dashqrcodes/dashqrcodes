@@ -17,7 +17,7 @@ Retired LAFD Firefighter · 23 Years · Redondo Beach, CA
 
 ### The Short Version
 
-California native. Proud girl dad (19 & 23). Empty nester in full-time startup mode. 23 years at LAFD. Retired to build DASH after a friend and fellow firefighter, **Kelly Wong**, died in the line of duty. So that he wouldn't be forgotten, I replaced the dash between the dates of birth and death with a metal QR code that shows his slideshow tribute. That process was more difficult than it should have been so I launched DASH. 
+One of those non-technical founders thats very close to the problem, and because of Claude Code, I'm now building the solution in full-time startup mode building an MVP for a funral pilot. California native. Proud girl dad (19 & 23). Empty nester 23 years at LAFD witnessing people die and then become forgotten.Retired to build DASH after a friend and fellow firefighter, **Kelly Wong**, died in the line of duty. So that he wouldn't be forgotten, I replaced the dash symbol between the dates of birth and death with a metal QR code that shows his slideshow tribute. That process was more difficult than it should have been so I launched DASH. 
 
 That was the beginning.
 
