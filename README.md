@@ -17,21 +17,31 @@ Retired LAFD Firefighter · 23 Years · Redondo Beach, CA
 
 ### The Short Version
 
-One of those non-technical founders thats very close to the problem, and because of Claude Code, I'm now building the solution in full-time startup mode building an MVP for a funral pilot. California native. Proud girl dad (19 & 23). Empty nester 23 years at LAFD witnessing people die and then become forgotten.Retired to build DASH after a friend and fellow firefighter, **Kelly Wong**, died in the line of duty. So that he wouldn't be forgotten, I replaced the dash symbol between the dates of birth and death with a metal QR code that shows his slideshow tribute. That process was more difficult than it should have been so I launched DASH. 
+California native. Proud girl dad (19 & 23). Empty nester. 
 
-That was the beginning.
+23 years at LAFD witnessing people die and then become forgotten. A friend and fellow firefighter died in the line of duty. So that he wouldn't be forgotten, I replaced the dash symbol between the dates of birth and death with a metal QR code that shows his photo slideshow tribute. That process was more difficult than it should have been so I launched DASH.
+
+Non-technical founder that is very close to the problem, and because of Claude Code, I'm prompting my butt off to build the solution.
+
+I'm crazy excited and really proud of myself for having validated the idea by helping a local L.A. funeral home serve over 400 paying customers using analog methods to earn over $70k in revenue, 30k printed keepsakes, $0 CAC, 5,000 work hours saved, 100% profit increases. Even though I have no clue what the heck dsdssaadaadaa I'm doing, I'm not letting that stop me. 
+
+Full-time startup mode building the MVP for a local funeral home in L.A. (LITERALLY I'M ZERO TO ONE)! It's a big personal step for me as it's my first ever software endeavor and I have a real paying customers! This is one small step in the massive AI journey I am on. 
+
+This is the beginning.
 
 ---
 
-### What we're Building
+### What I'm Building
 
 <table>
 <tr>
 <td width="50%">
 
-**DASH Memories** makes a beautiful way to remember a loved one by allowing users to easily add video stories of their loved ones onto print-on-demand by adding a DASH QR code in the design/check-out step for: printed cards, bronze plaques, urns, photo blocks, etc. Once the order is fullfilled, just scan the keepsake with your phone to see a life story.
+**DASH Memories** makes a beautiful way to remember a loved. 
 
-I validated this on foot. Funeral homes in L.A. and S.F. Door-to-door. One family at a time. 0 to 1. At the request of a funeral customer, I included printed products in 2022. Serendipitous moment: the first printed order was fulfilled at 4Printings on El Camino Real in Mt. View, CA in the exact building that was formerly the Byte Shop that, in 1976, sold the very first Apple computers from Steve Jobs and Steven Woznicak. 
+What started by allowing users to easily add video stories of their loved ones onto print-on-demand QR code on printed cards, bronze plaques, urns, photo blocks, etc. to see a life story has evolved into an AI app that will allow users to "step into their photographs" -a Sora like experience connected to your phone's camera roll for your memories. 
+
+Easter egg: the first printed order was fulfilled at 4Printings on El Camino Real in Mt. View, CA in the exact building that was formerly the Byte Shop that, in 1976, sold the very first Apple computers from Steve Jobs and Steven Wozniak. 
 
 - 400+ paying customers
 - 30,000+ printed cards and keepsakes
