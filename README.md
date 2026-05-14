@@ -15,7 +15,7 @@ Retired LAFD Firefighter · 23 Years · Redondo Beach, CA
 
 ---
 
-### The Short Version
+### The Story
 
 Non-technical founder that is very close to the problem, and because of Claude Code, I'm prompting my butt off to build the solution. 
 
