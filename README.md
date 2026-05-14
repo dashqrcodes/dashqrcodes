@@ -44,12 +44,7 @@ This is only the beginning.
 <tr>
 <td width="50%">
 
-**DASH Memories** makes a beautiful way to remember a loved. 
-
-AI mobile app that allows users to "step into their photographs" a Sora-like experience connected to your phone's camera roll for your memories. 
-
-
-  
+**DASH Memories** AI mobile app that allows users to "step into their photographs" a Sora-like experience connected to your phone's camera roll for your memories. 
 
 </td>
 <td width="50%">
@@ -74,9 +69,9 @@ AI mobile app that allows users to "step into their photographs" a Sora-like exp
 
 ### The Vision
 
-> Amazon started with books. DASH starts with death.
+> Amazon started with books. DASH starts with memorials.
 
-AI photo cloud that lets users network with one another to turn one photograph into an immersive memory experience. AI reconstructs shared moments from photos in camera rolls into 360-degree immersive experiences.
+The end goal: AI photo cloud that lets users network with one another to turn one photograph into an immersive memory experience. AI reconstructs shared moments from photos in camera rolls into 360-degree immersive experiences.
 
 Build an AI photo cloud for the living that can also be used to honor the dead.
 
