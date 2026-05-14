@@ -17,11 +17,11 @@ Retired LAFD Firefighter · 23 Years · Redondo Beach, CA
 
 ### The Story
 
-Non-technical founder that is very close to the problem, and because of Claude Code, I'm prompting my butt off to build the solution. 
+Non-technical founder that is very close to the problem prompting my butt off on to build the solution with Claude Code. 
 
-23 year LAFD firefighter EMT witnessing people die on a regular basis with thousands of photos on their phones only to become forgotten after the funeral. I became personally involved with the problem/solution when a fellow firefighter died in the line of duty and we used mobile apps to honor his legacy. I am using AI to create amazing tributes and current mobile apps are insufficient so I launched DASH.
+23 year LAFD firefighter EMT witnessing people die on a regular basis with thousands of photos on their phones only to become forgotten after the funeral. I became personally involved with the problem/solution when a fellow firefighter died in the line of duty and we used mobile apps to honor his legacy which were insufficient so I launched DASH.
 
-I'm really proud of myself for having validated the idea by doing business with a local L.A. funeral. Analog: served over 400 paying customers using analog methods to earn over $70k in revenue, 30k printed keepsakes, $0 CAC, 5,000 work hours saved, 100% profit increases. 
+I'm really proud of myself for having validated the idea by partnering with local L.A. funeral businesses using analog methods: served over 400 paying customers earning over $70k in revenue, 30k printed keepsakes, $0 CAC, 5,000 work hours saved, 100% profit increases. 
 
 Full-time startup mode...ZERO TO ONE! 
 Easter egg: the first printed order was fulfilled at 4Printings on El Camino Real in Mt. View, CA in the exact building that was formerly the Byte Shop that, in 1976, sold the very first Apple computers from Steve Jobs and Steven Wozniak. 
