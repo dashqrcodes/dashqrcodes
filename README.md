@@ -23,9 +23,9 @@ Non-technical founder that is very close to the problem, and because of Claude C
 
 I'm really proud of myself for having validated the idea by doing business with a local L.A. funeral. Analog: served over 400 paying customers using analog methods to earn over $70k in revenue, 30k printed keepsakes, $0 CAC, 5,000 work hours saved, 100% profit increases. 
 
-Full-time startup mode (LITERALLY I'M ZERO TO ONE)! It's a big personal step for me as it's my first ever software endeavor and I have a real paying customers! This is one small step in the massive AI journey. 
+Full-time startup mode (LITERALLY I'M ZERO TO ONE)! It's a big personal step for me as it's my first ever software endeavor and I have real paying customers! This is one small step in the massive AI journey. 
 
-This is the beginning.
+This is only the beginning.
 
 ---
 
