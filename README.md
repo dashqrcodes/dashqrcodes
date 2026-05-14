@@ -21,9 +21,9 @@ Non-technical founder that is very close to the problem, and because of Claude C
 
 23 year LAFD firefighter EMT witnessing people die on a regular basis with thousands of photos on their phones only to become forgotten after the funeral. I became personally involved with the problem/solution when a fellow firefighter died in the line of duty and we used mobile apps to honor his legacy. I am using AI to create amazing tributes and current mobile apps are insufficient so I launched DASH.
 
-I'm really proud of myself for having validated the idea by doing business with a local L.A. funeral. Analog: serves over 400 paying customers using analog methods to earn over $70k in revenue, 30k printed keepsakes, $0 CAC, 5,000 work hours saved, 100% profit increases. 
+I'm really proud of myself for having validated the idea by doing business with a local L.A. funeral. Analog: served over 400 paying customers using analog methods to earn over $70k in revenue, 30k printed keepsakes, $0 CAC, 5,000 work hours saved, 100% profit increases. 
 
-Full-time startup mode (LITERALLY I'M ZERO TO ONE)! It's a big personal step for me as it's my first ever software endeavor and I have a real paying customers! This is one small step in the massive AI journey I am on. 
+Full-time startup mode (LITERALLY I'M ZERO TO ONE)! It's a big personal step for me as it's my first ever software endeavor and I have a real paying customers! This is one small step in the massive AI journey. 
 
 This is the beginning.
 
@@ -37,7 +37,7 @@ This is the beginning.
 
 **DASH Memories** makes a beautiful way to remember a loved. 
 
-What started by allowing users to easily add video stories of their loved ones onto print-on-demand QR code on printed cards, bronze plaques, urns, photo blocks, etc. to see a life story has evolved into an AI app that will allow users to "step into their photographs" -a Sora like experience connected to your phone's camera roll for your memories. 
+What started as adding video stories of loved ones onto engraved QR codes has evolved into an AI mobile app that will allow users to "step into their photographs" -a Sora like experience connected to your phone's camera roll for your memories. 
 
 Easter egg: the first printed order was fulfilled at 4Printings on El Camino Real in Mt. View, CA in the exact building that was formerly the Byte Shop that, in 1976, sold the very first Apple computers from Steve Jobs and Steven Wozniak. 
 
