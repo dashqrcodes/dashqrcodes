@@ -32,7 +32,7 @@ I'm really proud of myself for having validated the idea by partnering with loca
 
 EASTER EGG: Steve Jobs and Steve Wozniak sold the first Apple Computers in the same building where I sold my first order of printed postcards with QR codes on them at 4Printings on El Camino Real in Mt. View, CA -formerly The Byte Shop. 
 
-It's a big personal step for me as it's my first and last software endeavor and I have real paying customers! This is a mission. I am not a serial entreprenuer not do I ever intend to be. This is a mission to save the world...from being forgotten.
+Mission driven endeavor with real paying early stage customers! This is a mission to save the planet...from being forgotten.
 
 This is only the beginning.
 
