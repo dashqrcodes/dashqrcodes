@@ -6,7 +6,7 @@
 
 **Founder & CEO, DASH Memories Inc.**
 
-Retired LAFD Firefighter · 23 Years · Redondo Beach, CA
+Retired LAFD Firefighter · 23 Years. So people are not forgotten. 
 
 [![Website](https://img.shields.io/badge/dashmemories.com-000?style=flat&logo=vercel&logoColor=white)](https://dashmemories.com)
 [![Invest](https://img.shields.io/badge/Invest%20in%20DASH-1B8A4E?style=flat)](https://dashmemories.com/invest.html)
@@ -15,16 +15,13 @@ Retired LAFD Firefighter · 23 Years · Redondo Beach, CA
 
 ---
 
-### The Story
+### From Zero to Hero... I mean...from Zero to One
 
-Non-technical founder that is very close to the problem prompting my butt off on to build the solution with Claude Code. 
+Non-technical founder that is very close to the problem prompting my butt off in Claude Code to build the solution.
 
-23 year LAFD firefighter EMT witnessing people die on a regular basis with thousands of photos on their phones only to become forgotten after the funeral. I became personally involved with the problem/solution when a fellow firefighter died in the line of duty and we used mobile apps to honor his legacy which were insufficient so I launched DASH.
+23 year LAFD firefighter EMT witnessing people die on a regular basis with thousands of photos on their phones made me realize they go to waste and become forgotten after the funeral. I became personally involved with the problem when a fellow firefighter died in the line of duty and we used mobile apps to honor his legacy. They were insufficient so I launched DASH.
 
-I'm really proud of myself for having validated the idea by partnering with local L.A. funeral businesses using analog methods: served over 400 paying customers earning over $70k in revenue, 30k printed keepsakes, $0 CAC, 5,000 work hours saved, 100% profit increases. 
-
-Full-time startup mode...ZERO TO ONE! 
-Easter egg: the first printed order was fulfilled at 4Printings on El Camino Real in Mt. View, CA in the exact building that was formerly the Byte Shop that, in 1976, sold the very first Apple computers from Steve Jobs and Steven Wozniak. 
+I'm really proud of myself for having validated the idea by partnering with local L.A. funeral businesses using analog methods: 
 
 - 400+ paying customers
 - 30,000+ printed cards and keepsakes
@@ -32,6 +29,9 @@ Easter egg: the first printed order was fulfilled at 4Printings on El Camino Rea
 - 98% customer satisfaction (2% were hard lessons we apply to QC today)
 - 30+ old photos animated with AI — families saw their loved ones young and free... in "heaven"
 - Bootstrapping
+
+EASTER EGG: Steve Jobs and Steve Wozniak sold the first Apple Computers in the same building where I sold my first order of printed postcards with QR codes on them at 4Printings on El Camino Real in Mt. View, CA -formerly The Byte Shop. 
+
 It's a big personal step for me as it's my first ever software endeavor and I have real paying customers! This is one small step in the massive AI journey. 
 
 This is only the beginning.
@@ -71,7 +71,7 @@ This is only the beginning.
 
 > Amazon started with books. DASH starts with memorials.
 
-The end goal: AI photo cloud that lets users network with one another to turn one photograph into an immersive memory experience. AI reconstructs shared moments from photos in camera rolls into 360-degree immersive experiences.
+AI photo cloud that lets users network with one another to turn one photograph into an immersive memory experience. AI reconstructs shared moments from photos in camera rolls into 360-degree immersive experiences.
 
 Build an AI photo cloud for the living that can also be used to honor the dead.
 
