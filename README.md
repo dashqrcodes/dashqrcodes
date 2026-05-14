@@ -17,15 +17,13 @@ Retired LAFD Firefighter · 23 Years · Redondo Beach, CA
 
 ### The Short Version
 
-California native. Proud girl dad (19 & 23). Empty nester. 
+Non-technical founder that is very close to the problem, and because of Claude Code, I'm prompting my butt off to build the solution. 
 
-23 years at LAFD witnessing people die and then become forgotten. A friend and fellow firefighter died in the line of duty. So that he wouldn't be forgotten, I replaced the dash symbol between the dates of birth and death with a metal QR code that shows his photo slideshow tribute. That process was more difficult than it should have been so I launched DASH.
+23 year LAFD firefighter EMT witnessing people die on a regular basis with thousands of photos on their phones only to become forgotten after the funeral. I became personally involved with the problem/solution when a fellow firefighter died in the line of duty and we used mobile apps to honor his legacy. I am using AI to create amazing tributes and current mobile apps are insufficient so I launched DASH.
 
-Non-technical founder that is very close to the problem, and because of Claude Code, I'm prompting my butt off to build the solution.
+I'm really proud of myself for having validated the idea by doing business with a local L.A. funeral. Analog: serves over 400 paying customers using analog methods to earn over $70k in revenue, 30k printed keepsakes, $0 CAC, 5,000 work hours saved, 100% profit increases. 
 
-I'm crazy excited and really proud of myself for having validated the idea by helping a local L.A. funeral home serve over 400 paying customers using analog methods to earn over $70k in revenue, 30k printed keepsakes, $0 CAC, 5,000 work hours saved, 100% profit increases. Even though I have no clue what the heck dsdssaadaadaa I'm doing, I'm not letting that stop me. 
-
-Full-time startup mode building the MVP for a local funeral home in L.A. (LITERALLY I'M ZERO TO ONE)! It's a big personal step for me as it's my first ever software endeavor and I have a real paying customers! This is one small step in the massive AI journey I am on. 
+Full-time startup mode (LITERALLY I'M ZERO TO ONE)! It's a big personal step for me as it's my first ever software endeavor and I have a real paying customers! This is one small step in the massive AI journey I am on. 
 
 This is the beginning.
 
@@ -77,7 +75,7 @@ Easter egg: the first printed order was fulfilled at 4Printings on El Camino Rea
 
 > Amazon started with books. DASH starts with death.
 
-Memorial products are Phase 1. The technology works for every moment in life — birthdays, weddings, vacations. Phase 3 is **HEAVEN.blue**: an AI photo cloud that reconstructs shared moments from everyone's photos into 360-degree immersive experiences.
+Memorial products are the competetive advantange that customers pay for, but no other tech company, or investor wants to deal with -that is our adantage. No one else in tech wants to address the physical memorials. The technology works for every moment in life — birthdays, weddings, vacations. The final phase is **HEAVEN.blue**: an AI photo cloud that lets users network with one another to turn one photograph into an immersive memory experience. AI reconstructs shared moments from photos in camera rolls into 360-degree immersive experiences.
 
 Build an AI photo cloud for the living that can also be used to honor the dead.
 
