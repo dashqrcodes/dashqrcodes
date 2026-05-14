@@ -37,7 +37,7 @@ This is only the beginning.
 
 **DASH Memories** makes a beautiful way to remember a loved. 
 
-What started as adding video stories of loved ones onto engraved QR codes has evolved into an AI mobile app that will allow users to "step into their photographs" -a Sora like experience connected to your phone's camera roll for your memories. 
+AI mobile app that allows users to "step into their photographs" a Sora-like experience connected to your phone's camera roll for your memories. 
 
 Easter egg: the first printed order was fulfilled at 4Printings on El Camino Real in Mt. View, CA in the exact building that was formerly the Byte Shop that, in 1976, sold the very first Apple computers from Steve Jobs and Steven Wozniak. 
 
