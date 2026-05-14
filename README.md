@@ -23,7 +23,16 @@ Non-technical founder that is very close to the problem, and because of Claude C
 
 I'm really proud of myself for having validated the idea by doing business with a local L.A. funeral. Analog: served over 400 paying customers using analog methods to earn over $70k in revenue, 30k printed keepsakes, $0 CAC, 5,000 work hours saved, 100% profit increases. 
 
-Full-time startup mode (LITERALLY I'M ZERO TO ONE)! It's a big personal step for me as it's my first ever software endeavor and I have real paying customers! This is one small step in the massive AI journey. 
+Full-time startup mode...ZERO TO ONE! 
+Easter egg: the first printed order was fulfilled at 4Printings on El Camino Real in Mt. View, CA in the exact building that was formerly the Byte Shop that, in 1976, sold the very first Apple computers from Steve Jobs and Steven Wozniak. 
+
+- 400+ paying customers
+- 30,000+ printed cards and keepsakes
+- $70K lifetime revenue
+- 98% customer satisfaction (2% were hard lessons we apply to QC today)
+- 30+ old photos animated with AI — families saw their loved ones young and free... in "heaven"
+- Bootstrapping
+It's a big personal step for me as it's my first ever software endeavor and I have real paying customers! This is one small step in the massive AI journey. 
 
 This is only the beginning.
 
@@ -39,14 +48,6 @@ This is only the beginning.
 
 AI mobile app that allows users to "step into their photographs" a Sora-like experience connected to your phone's camera roll for your memories. 
 
-Easter egg: the first printed order was fulfilled at 4Printings on El Camino Real in Mt. View, CA in the exact building that was formerly the Byte Shop that, in 1976, sold the very first Apple computers from Steve Jobs and Steven Wozniak. 
-
-- 400+ paying customers
-- 30,000+ printed cards and keepsakes
-- $70K lifetime revenue
-- 98% customer satisfaction (2% were hard lessons we apply to QC today)
-- 30+ old photos animated with AI — families saw their loved ones young and free... in "heaven"
-- Bootstrapping
 
   
 
@@ -75,7 +76,7 @@ Easter egg: the first printed order was fulfilled at 4Printings on El Camino Rea
 
 > Amazon started with books. DASH starts with death.
 
-Memorial products are the competetive advantange that customers pay for, but no other tech company, or investor wants to deal with -that is our adantage. No one else in tech wants to address the physical memorials. The technology works for every moment in life — birthdays, weddings, vacations. The final phase is **HEAVEN.blue**: an AI photo cloud that lets users network with one another to turn one photograph into an immersive memory experience. AI reconstructs shared moments from photos in camera rolls into 360-degree immersive experiences.
+AI photo cloud that lets users network with one another to turn one photograph into an immersive memory experience. AI reconstructs shared moments from photos in camera rolls into 360-degree immersive experiences.
 
 Build an AI photo cloud for the living that can also be used to honor the dead.
 
