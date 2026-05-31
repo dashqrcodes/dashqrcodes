@@ -19,9 +19,9 @@ Retired LAFD Firefighter 23 Years. California
 
 Non-technical founder that is very close to the problem prompting my butt off in Claude Code to build the solution.
 
-23 year LAFD firefighter EMT witnessing people die on a regular basis with thousands of photos on their phones made me realize they go to waste and become forgotten after the funeral. I became personally involved with the problem when a fellow firefighter died in the line of duty and we used mobile apps to honor his legacy. They were insufficient so I launched DASH.
+23 year LAFD firefighter EMT witnessing people die on a regular basis, I realized they esily become forgotten. People leave behind thousands of photos on their phones, and after the funeral all of those photos are forgotten along with the existence of those people. The problem hit my life when a fellow firefighter died in the line of duty and we wanted to honor his legacy. Existing mobile apps were insufficient so I launched DASH.
 
-I'm really proud of myself for having validated the idea by partnering with local L.A. funeral businesses using analog methods: 
+I'm really proud of myself for not having formal startup or business experience, and having validated the idea by partnering with local L.A. funeral businesses using analog methods: 
 
 - 400+ paying customers
 - 30,000+ printed cards and keepsakes
@@ -30,9 +30,9 @@ I'm really proud of myself for having validated the idea by partnering with loca
 - 30+ old photos animated with AI — families saw their loved ones young and free... in "heaven"
 - Bootstrapping
 
-EASTER EGG: Steve Jobs and Steve Wozniak sold the first Apple Computers in the same building where I sold my first order of printed postcards with QR codes on them at 4Printings on El Camino Real in Mt. View, CA -formerly The Byte Shop. 
+EASTER EGG: Steve Jobs and Steve Wozniak sold the first Apple Computers in the same building that I sold my first order of printed postcards with QR codes on them in Mountain View, CA. 
 
-Mission driven endeavor with real paying early stage customers! This is a mission to save the planet...from being forgotten.
+Mission driven endeavor with real paying early stage customers! This is a mission to save the planet...from being forgotten one family at-a-time.
 
 This is only the beginning.
 
@@ -44,7 +44,7 @@ This is only the beginning.
 <tr>
 <td width="50%">
 
-**DASH Memories** AI mobile app that allows users to "step into their photographs" a Sora-like experience connected to your phone's camera roll for your memories. 
+**DASH Memories** AI mobile app that allows users to connect their phone's camera roll so they can "step into their photographs" a Sora-like experience for your memories so people are always remembered.
 
 </td>
 <td width="50%">
