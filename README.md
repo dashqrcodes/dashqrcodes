@@ -93,7 +93,6 @@ Build an AI photo cloud for the living that can also be used to honor the dead.
 2025   Supabase Select SF. 400+ customers.
 2025   Full-time founder DASH Memories, Inc.
 2025   Delaware C Corp (Carta + Clerky).
-2026   CTO CoFounder joined — Frank Stienhans
 2026   Three repos. One mission.
 ```
 
