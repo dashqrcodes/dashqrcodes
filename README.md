@@ -15,13 +15,13 @@ Retired LAFD Firefighter 23 Years. California
 
 ---
 
-### From Zero to Hero... I mean...from Zero to One
+### Firefighter Goes Zero to One so You're Not Forgotten
 
-Non-technical founder that is very close to the problem prompting my butt off in Claude Code to build the solution.
+Non-technical founder that is very close to the problem of people dying and becoming forgotten. I'm building my solutions with Claude Code.
 
-23 year LAFD firefighter EMT witnessing people die on a regular basis, I realized they esily become forgotten. People leave behind thousands of photos on their phones, and after the funeral all of those photos are forgotten along with the existence of those people. The problem hit my life when a fellow firefighter died in the line of duty and we wanted to honor his legacy. Existing mobile apps were insufficient so I launched DASH.
+23 year LAFD firefighter EMT put me close to the problem by witnessing people die on a regular basis leaving behind thousands of photos on their phones, and after the funeral all of those photos are forgotten as if they never existed. The problem hit me when a fellow firefighter died in the line of duty and at his gravesite I noticed a graveston and the dash inbetween the dates of birth and death. That dash is all we get to represent our life -what a cruelty: we pur our heart and soul into this life only for it to end and then become forgotten. I wanted to ensure my friend was not forgotten so I made him an engraved QR code and slideshow for his memorial at the firehouse. Existing mobile apps for this sucked so I launched DASH.
 
-I'm really proud of myself for not having formal startup or business experience, and having validated the idea by partnering with local L.A. funeral businesses using analog methods: 
+I have no formal startup or business experience, and I validated the idea by partnering with local L.A. funeral businesses with a basic website and going door to door fulfilling orders using analog methods (wix, google photos, canva, youtube, qr app, video editing apps): 
 
 - 400+ paying customers
 - 30,000+ printed cards and keepsakes
