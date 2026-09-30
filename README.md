@@ -4,7 +4,7 @@
 
 # David Gastelum
 
-**Founder & CEO, DASH Memories Inc.**
+**Founder, DASH Memories Inc.**
 
 Retired LAFD Firefighter 23 Years. California
 
@@ -15,9 +15,9 @@ Retired LAFD Firefighter 23 Years. California
 
 ---
 
-### Firefighter Goes Zero to One so You're Not Forgotten
+### Keeping People From Being Forgotten
 
-Non-technical founder that is very close to the problem of people dying and becoming forgotten. I'm building my solutions with Claude Code.
+Founder that was very close to the problem of seeing people in their last moments and then understanding that they become forgotten. That pain is my why for founding DASH Memeories, Inc. to keep people from becoming forgotten.
 
 23 year LAFD firefighter EMT put me close to the problem by witnessing people die on a regular basis leaving behind thousands of photos on their phones, and after the funeral all of those photos are forgotten as if they never existed. The problem hit me when a fellow firefighter died in the line of duty. At his funerak I noticed a gravestone...the dash inbetween the dates of birth and death. That dash is all we get to represent our life -what cruelty: we pour our heart and soul into this life only for it to end and then become forgotten. I wanted to ensure my friend was not forgotten so I made him an engraved QR code and slideshow for his memorial at the firehouse. Existing mobile apps for this sucked so I launched DASH.
 
