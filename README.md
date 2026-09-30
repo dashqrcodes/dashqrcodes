@@ -17,7 +17,7 @@ Retired LAFD Firefighter 23 Years. California
 
 ### Keeping People From Being Forgotten
 
-We are making AI chat for print-on-demand QR keepsakes to scan and share content. Printing industry globally is $500B. 
+We are making AI chat for print-on-demand QR keepsakes to scan and share content. https://dashmemories.com Printing industry globally is $500B. 
 
 ### Origin Story
 
