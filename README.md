@@ -17,11 +17,17 @@ Retired LAFD Firefighter 23 Years. California
 
 ### Keeping People From Being Forgotten
 
-Founder that was very close to the problem of seeing people in their last moments and then understanding that they become forgotten. That pain is my why for founding DASH Memeories, Inc. to keep people from becoming forgotten.
+We are making AI chat for print-on-demand QR keepsakes to scan and share content. Printing industry globally is $500B. 
 
-23 year LAFD firefighter EMT put me close to the problem by witnessing people die on a regular basis leaving behind thousands of photos on their phones, and after the funeral all of those photos are forgotten as if they never existed. The problem hit me when a fellow firefighter died in the line of duty. At his funerak I noticed a gravestone...the dash inbetween the dates of birth and death. That dash is all we get to represent our life -what cruelty: we pour our heart and soul into this life only for it to end and then become forgotten. I wanted to ensure my friend was not forgotten so I made him an engraved QR code and slideshow for his memorial at the firehouse. Existing mobile apps for this sucked so I launched DASH.
+### Origin Story
 
-I have no formal startup or business experience, and I validated the idea by partnering with local L.A. funeral businesses with a basic website and going door to door fulfilling orders using analog methods (wix, google photos, canva, youtube, qr app, video editing apps): 
+I was a firefighter in LA. Seeing people die and become forgotten was painful and serves as my why for founding DASH Memeories, Inc. to keep people from becoming forgotten.
+
+The idea to do something about it hit me when my friend and fellow firefighter died in the line of duty. I wanted to ensure he was not forgotten so I had an engraved QR code made and mounted it on his memorial at the fire station so people can see his life tribute slideshow. Existing solutions are getting better but DASH is making a beautiful way to be remembered.
+
+### Validation
+
+I partnered with a local L.A. mortuary using analog methods (wix website https://dashqrcodes.com , google photos, canva, youtube, qr app, video editing apps): 
 
 - 400+ paying customers
 - 30,000+ printed cards and keepsakes
@@ -30,9 +36,9 @@ I have no formal startup or business experience, and I validated the idea by par
 - 30+ old photos animated with AI — families saw their loved ones young and free... in "heaven"
 - Bootstrapping
 
-EASTER EGG: Steve Jobs and Steve Wozniak sold the first Apple Computers in the same building that I sold my first order of printed postcards with QR codes on them in Mountain View, CA. 
+EASTER EGG: the building where Steve Jobs and Steve Wozniak sold their first 200 Apple Computers is the same building that is now a printing shop where I fulfilled my first order of printed postcards with QR codes on them. 
 
-Mission driven endeavor with real paying early stage customers! This is a mission to save the planet...from being forgotten one family at-a-time.
+This is a mission driven endeavor with real paying early stage customers! This is a mission to save people from being forgotten currently one family at-a-time. 
 
 This is only the beginning.
 
@@ -44,7 +50,7 @@ This is only the beginning.
 <tr>
 <td width="50%">
 
-**DASH Memories** AI mobile app that allows users to connect their phone's camera roll so they can "step into their photographs" a Sora-like experience for your memories so people are always remembered.
+**DASH Memories** The north star: AI mobile app that allows users to connect their phone's camera roll so they can "step into their photographs" a Sora-like experience for your memories so people are always remembered.
 
 </td>
 <td width="50%">
