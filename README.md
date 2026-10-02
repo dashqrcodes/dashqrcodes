@@ -21,9 +21,11 @@ We are making AI chat for print-on-demand QR keepsakes to scan and share content
 
 ### Origin Story
 
-I was a firefighter in LA. Seeing people die and become forgotten was painful and serves as my why for founding DASH Memeories, Inc. to keep people from becoming forgotten.
+To keep people from becoming forgotten: I was a firefighter in LA. where I would see people die on a daily basis. I realized people eventually become forgotten, because memories are buried in our phones. That painful realization is why I founded DASH Memeories, Inc.
 
-The idea to do something about it hit me when my friend and fellow firefighter died in the line of duty. I wanted to ensure he was not forgotten so I had an engraved QR code made and mounted it on his memorial at the fire station so people can see his life tribute slideshow. Existing solutions are getting better but DASH is making a beautiful way to be remembered.
+I took action when my friend and fellow firefighter Kelly Wong, 29, died in the line of duty. To keep him from being forgotten, I made his photo tribute slideshow, put it on YouTube, and made a metal engraved QR code and mounted it on the memorial at the fire station. People can now see his life tribute slideshow. I wanted to validate this idea so I went to every funeral business in LA and several in SF and started a pilot where I validated the current vision. I did this purely analog and sold to 200 funeral customers since 2021 and discovered the need to build the current B2B2C print-on-demand media platform for the funeral market. 
+
+Existing DIY solutions available to consumers and funeral counselors, even with AI, have friction. DASH is removing that friction...making a beautiful way to be remembered.
 
 ### Validation
 
@@ -40,7 +42,8 @@ EASTER EGG: the building where Steve Jobs and Steve Wozniak sold their first 200
 
 This is a mission driven endeavor with real paying early stage customers! This is a mission to save people from being forgotten currently one family at-a-time. 
 
-This is only the beginning.
+This is only the beginning.  https://dashmemories.com
+
 
 ---
 
@@ -50,7 +53,7 @@ This is only the beginning.
 <tr>
 <td width="50%">
 
-**DASH Memories** The north star: AI mobile app that allows users to connect their phone's camera roll so they can "step into their photographs" a Sora-like experience for your memories so people are always remembered.
+**DASH Memories** The north star: AI mobile app that allows users to connect their phone's camera roll to "step into photos" a Sora experience for real memories.
 
 </td>
 <td width="50%">
