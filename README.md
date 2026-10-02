@@ -17,7 +17,7 @@ Veteran LAFD Firefighter 23 Years. California
 
 ### Keeping People From Being Forgotten
 
-We are giving people something they didn't know they needed. Users will be able to use their phone to create a memorial keepsake, a memorial bench, a physical portrait and add photos and videos to them. Scan the keepsakes to see memories of a life. MVP https://dashmemories.com Printing industry globally is $500B. Global printing in life memories is $56B. 
+We are giving people something they didn't know they needed. Users will be able to use their phone to create a memorial keepsake, a memorial bench, a physical portrait and add photos and videos to them -with minimal friction. Scan the keepsakes to see memories of a life. MVP https://dashmemories.com Printing industry globally is $500B. Global printing in life memories is $56B. 
 
 ### Origin Story
 
