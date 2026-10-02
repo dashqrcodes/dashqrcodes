@@ -6,7 +6,7 @@
 
 **Founder, DASH Memories Inc.**
 
-Retired LAFD Firefighter 23 Years. California
+Veteran LAFD Firefighter 23 Years. California
 
 [![Website](https://img.shields.io/badge/dashmemories.com-000?style=flat&logo=vercel&logoColor=white)](https://dashmemories.com)
 [![Invest](https://img.shields.io/badge/Invest%20in%20DASH-1B8A4E?style=flat)](https://dashmemories.com/invest.html)
