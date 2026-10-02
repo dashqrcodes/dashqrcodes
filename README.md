@@ -17,7 +17,7 @@ Veteran LAFD Firefighter 23 Years. California
 
 ### Keeping People From Being Forgotten
 
-We are making AI chat for print-on-demand QR keepsakes to scan and share content. https://dashmemories.com Printing industry globally is $500B. 
+Use your phone to scan a memorial keepsake, a memorial bench, a physical portrait to see an AI memory of a life. MVP https://dashmemories.com Printing industry globally is $500B. Global printing in life memories is $56B. 
 
 ### Origin Story
 
