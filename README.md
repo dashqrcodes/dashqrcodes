@@ -17,43 +17,55 @@ Veteran LAFD Firefighter 23 Years. California
 
 ### Keeping People From Being Forgotten
 
-We are giving people something they didn't know they needed. Users will be able to use their phone to create a memorial keepsake, a memorial bench, a physical portrait and add photos and videos to them -with minimal friction. Scan the keepsakes to see memories of a life. MVP https://dashmemories.com Printing industry globally is $500B. Global printing in life memories is $56B. 
+People die and become forgotten. 200 years ago was the first photo. People use photos to remember our loved ones: we make montages, make slideshows and post then on social media, we do everything remember life with photos. We look at a photo and instantly our minds us back to that moment. In that instant...that photo becomes a time machine. We can remember emotions, tastes, sounds, smells, feelings. A photo can do so much for us, but what a photo can't do is allow others to relive what that instant meant to each one of us. 
+
+On the 200th anniversary of the first photo, we are embarking on building somehting people didn't know they wanted. We are reinventing the photo.
+
 
 ### Origin Story
 
-To keep people from becoming forgotten: I was a firefighter in LA. where I would see people die on a daily basis. I realized people eventually become forgotten, because memories are buried in our phones. That painful realization is why I founded DASH Memeories, Inc.
+People die all the time, and sadly most become forgotten. I retired firefighting and EMS in LA to launch an AI memory startup to keep poeple from being forgotten. 
 
-I took action when my friend and fellow firefighter Kelly Wong, 29, died in the line of duty. To keep him from being forgotten, I made his photo tribute slideshow, put it on YouTube, and made a metal engraved QR code and mounted it on the memorial at the fire station. People can now see his life tribute slideshow. I wanted to validate this idea so I went to every funeral business in LA and several in SF and started a pilot where I validated the current vision. I did this purely analog and sold to 200 funeral customers since 2021 and discovered the need to build the current B2B2C print-on-demand media platform for the funeral market. 
+As a first responder I would see people die on a daily basis.  I walked into their homes where they took their final breaths, and I would see all of their photos on the walls; their entire life timeline. Baby pictures, wedding pictures, graduations, vacations and I wondered, "what happens to all of these photos after the funeral?" The picures end up in a box or in the cloud forever to become forgotten! That realization was painful and lives with me to this day. That pain is what drives me. 
 
-Existing DIY solutions available to consumers and funeral counselors, even with AI, have friction. DASH is removing that friction...making a beautiful way to be remembered.
+### Why The Startup. 
 
-### Validation
+June 3, 2017 my friend and fellow firefighter Kelly Wong, 29, died in the line of duty. To keep him from being forgotten, I had the idea to put his photo tribute slideshow on an engraved QR code on his memorial at the firehouse. That was too complicated and full of needless friction. DIY solutions, even with AI, have friction. DASH is removing that friction and making a beautiful way to be remembered.
 
-I partnered with a local L.A. mortuary using analog methods (wix website https://dashqrcodes.com , google photos, canva, youtube, qr app, video editing apps): 
+### Validation MVP Zero to One
+
+I partnered with a local L.A. mortuary determine whether or not poeple would pay for this. I used analog methods (wix website https://dashqrcodes.com , Canva, Google photos, YouTube, qr app, video editing apps all on mobile!!!) Lots of pain. 
+
+Results:
 
 - 400+ paying customers
 - 30,000+ printed cards and keepsakes
 - $70K lifetime revenue
 - 98% customer satisfaction (2% were hard lessons we apply to QC today)
 - 30+ old photos animated with AI — families saw their loved ones young and free... in "heaven"
-- Bootstrapping
 
-EASTER EGG: the building where Steve Jobs and Steve Wozniak sold their first 200 Apple Computers is the same building that is now a printing shop where I fulfilled my first order of printed postcards with QR codes on them. 
+I built and I am testing an MVP print-on-demand web app for mobile that let's customers of the funeral home to instantly create, order, add their loved ones slideshows onto their memorial service cards and canvas portrait keepsakes. I made it to save my sanity! LOL! 
+MVP https://dashmemories.com 
 
-This is a mission driven endeavor with real paying early stage customers! This is a mission to save people from being forgotten currently one family at-a-time. 
+### A Boring Business Opportunity: 
 
-This is only the beginning.  https://dashmemories.com
+Global printing industry is $500B. Global printing specifically in life memories is $56B. 
 
+### EASTER EGG: the same building where Steve Jobs and Steve Wozniak sold their first 200 Apple Computers is the same building where I fulfilled my first order of QR printed postcards. 
+
+The funeral home customers can use their phones to easily create a physical memorial keepsake, such as memorial cards, a canvas portrait, and instantly add photos and videos to those physical keepsakes all in one app. Others will then be able to scan the keepsakes to share memories of a life. 
+
+This is merely the beginning. The world's biggest fires all started with a spark.  
 
 ---
 
-### What I'm Building
+### The Bigger Product
 
 <table>
 <tr>
 <td width="50%">
 
-**DASH Memories** The north star: AI mobile app that allows users to connect their phone's camera roll to "step into photos" a Sora experience for real memories.
+**HEAVEN.blue** The north star: Connect to a phone's camera roll to "step into memories." AI recreates an experience of real memories to share your memories and interact with loved ones. 
 
 </td>
 <td width="50%">
