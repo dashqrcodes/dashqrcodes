@@ -17,7 +17,7 @@ Veteran LAFD Firefighter 23 Years. California
 
 ### Keeping People From Being Forgotten
 
-People die and become forgotten. 200 years ago was the first photo. People use photos to remember our loved ones: we make montages, make slideshows and post them on social media. People remember life with photos. We look at a photo and instantly our minds take us back to that moment. In that instant...that photo becomes a time machine. We can remember emotions, tastes, sounds, smells, and feelings. A photo can do so much for us, but what a photo can't do is allow others to relive what that instant meant to each one of us. 
+People die and become forgotten. 200 years ago was the first photo. People use photos to remember our loved ones: we make montages and slideshows and post them on social media. People remember life with photos. We look at a photo and instantly our minds take us back to that moment. In that instant...that photo becomes a time machine. We can remember emotions, tastes, sounds, smells, and feelings. A photo can do so much for us, but what a photo can't do is allow others to relive what that instant meant to each one of us. 
 
 On the 200th anniversary of the first photo, we are embarking on building something people didn't know they wanted. We are reinventing the photo.
 
