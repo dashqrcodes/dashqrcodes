@@ -26,7 +26,7 @@ On the 200th anniversary of the first photo, we are embarking on building someth
 
 People die all the time, and sadly most become forgotten. I retired from firefighting and EMS in LA after 23 years (taking a smaller pension) to launch an AI memory startup to keep poeple from being forgotten. 
 
-As a first responder I would see people die on a daily basis. We walked into people's homes and sould see where they took their final breaths. I would see all of their photos on the walls; their entire life timeline. Baby pictures, wedding pictures, graduations, vacations and I wondered, "after this person's funeral...what happens to all of these photos, these memories of them?" The sad reality is pictures end up in a box or in the cloud forever to become forgotten! That realization was painful and lives with me to this day. That pain is what drives this mission. 
+As a first responder I would see people die on a daily basis. We walked into people's homes and would see where they took their final breaths. I would see all of their photos on the walls; their entire life timeline. Baby pictures, wedding pictures, graduations, vacations and I wondered, "after this person's funeral...what happens to all of these photos, these memories of them?" The sad reality is pictures end up in a box or in the cloud forever to become forgotten! That realization was painful and lives with me to this day. That pain is what drives this mission. 
 
 ### Why The Startup. 
 
