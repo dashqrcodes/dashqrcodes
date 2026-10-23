@@ -44,7 +44,7 @@ Results:
 - 98% customer satisfaction (2% were hard lessons we apply to QC today)
 - 30+ old photos animated with AI — families saw their loved ones young and free... in "heaven"
 
-I built and I am testing something that can make money right now and save memories: an MVP print-on-demand web app for mobile that let's customers of the funeral home to instantly create, order, add their loved ones slideshows onto their memorial service cards and canvas portrait keepsakes. I made it to save my sanity! LOL! 
+I built a mobile web app to automate everything I'v been doing analog. This is not the AI end product in our product roadmap, but it is the next step that makes money. It is a print-on-demand mobile application that let's customers instantly create, order, and add their loved ones slideshows onto their memorial service cards and canvas portrait keepsakes all within one application. I made it to save my sanity, the funeral home's sanity, the print shop's sanity, and most importantly...the end customer honoring their loved one. 
 MVP https://dashmemories.com 
 
 ### A Boring Business Opportunity: 
