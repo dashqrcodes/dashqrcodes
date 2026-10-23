@@ -24,7 +24,7 @@ On the 200th anniversary of the first photo, we are embarking on building someth
 
 ### Origin Story
 
-People die all the time, and sadly most become forgotten. I was exposed to this reality in my previouse career in firefighting and EMS in LA. 
+People die all the time, and sadly most become forgotten. I was exposed to this reality in my previouse career in firefighting and EMS in Los Angeles. 
 
 As a first responder I would see people die on a daily basis. We walked into people's homes and would see where they took their final breaths. I would see all of their photos on the walls; their entire life timeline. Baby pictures, wedding pictures, graduations, vacations, and I wondered, "after this person's funeral...what happens to all of these photos, these memories of their life?" The sad reality is those pictures end up in a box or in the cloud forever to become forgotten! That realization was painful and lives with me to this day. That pain is what drives this mission. After 23 years of firefighting and emergency response in Los Angeles I retired, taking a smaller pension, to launch this start up to keep people from being forgotten. 
 
