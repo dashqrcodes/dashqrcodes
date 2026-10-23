@@ -24,9 +24,9 @@ On the 200th anniversary of the first photo, we are embarking on building someth
 
 ### Origin Story
 
-People die all the time, and sadly most become forgotten. I retired from firefighting and EMS in LA after 23 years (taking a smaller pension) to launch an AI memory startup to keep poeple from being forgotten. 
+People die all the time, and sadly most become forgotten. I was exposed to this reality in my previouse career in firefighting and EMS in LA. 
 
-As a first responder I would see people die on a daily basis. We walked into people's homes and would see where they took their final breaths. I would see all of their photos on the walls; their entire life timeline. Baby pictures, wedding pictures, graduations, vacations and I wondered, "after this person's funeral...what happens to all of these photos, these memories of them?" The sad reality is pictures end up in a box or in the cloud forever to become forgotten! That realization was painful and lives with me to this day. That pain is what drives this mission. 
+As a first responder I would see people die on a daily basis. We walked into people's homes and would see where they took their final breaths. I would see all of their photos on the walls; their entire life timeline. Baby pictures, wedding pictures, graduations, vacations, and I wondered, "after this person's funeral...what happens to all of these photos, these memories of their life?" The sad reality is those pictures end up in a box or in the cloud forever to become forgotten! That realization was painful and lives with me to this day. That pain is what drives this mission. After 23 years of firefighting and emergency response in Los Angeles I retired, taking a smaller pension, to launch this start up to keep people from being forgotten. 
 
 ### Why The Startup. 
 
@@ -45,6 +45,7 @@ Results:
 - 30+ old photos animated with AI — families saw their loved ones young and free... in "heaven"
 
 I built a mobile web app to automate everything I'v been doing analog. This is not the AI end product in our product roadmap, but it is the next step that makes money. It is a print-on-demand mobile application that let's customers instantly create, order, and add their loved ones slideshows onto their memorial service cards and canvas portrait keepsakes all within one application. I made it to save my sanity, the funeral home's sanity, the print shop's sanity, and most importantly...the end customer honoring their loved one. 
+
 MVP https://dashmemories.com 
 
 ### A Boring Business Opportunity: 
