@@ -17,22 +17,22 @@ Veteran LAFD Firefighter 23 Years. California
 
 ### Keeping People From Being Forgotten
 
-People die and become forgotten. 200 years ago was the first photo. People use photos to remember our loved ones: we make montages, make slideshows and post then on social media, we do everything remember life with photos. We look at a photo and instantly our minds us back to that moment. In that instant...that photo becomes a time machine. We can remember emotions, tastes, sounds, smells, feelings. A photo can do so much for us, but what a photo can't do is allow others to relive what that instant meant to each one of us. 
+People die and become forgotten. 200 years ago was the first photo. People use photos to remember our loved ones: we make montages, make slideshows and post them on social media. People remember life with photos. We look at a photo and instantly our minds us back to that moment. In that instant...that photo becomes a time machine. We can remember emotions, tastes, sounds, smells, feelings. A photo can do so much for us, but what a photo can't do is allow others to relive what that instant meant to each one of us. 
 
-On the 200th anniversary of the first photo, we are embarking on building somehting people didn't know they wanted. We are reinventing the photo.
+On the 200th anniversary of the first photo, we are embarking on building something people didn't know they wanted. We are reinventing the photo.
 
 
 ### Origin Story
 
-People die all the time, and sadly most become forgotten. I retired firefighting and EMS in LA to launch an AI memory startup to keep poeple from being forgotten. 
+People die all the time, and sadly most become forgotten. I retired from firefighting and EMS in LA after 23 years (taking a smaller pension) to launch an AI memory startup to keep poeple from being forgotten. 
 
-As a first responder I would see people die on a daily basis.  I walked into their homes where they took their final breaths, and I would see all of their photos on the walls; their entire life timeline. Baby pictures, wedding pictures, graduations, vacations and I wondered, "what happens to all of these photos after the funeral?" The picures end up in a box or in the cloud forever to become forgotten! That realization was painful and lives with me to this day. That pain is what drives me. 
+As a first responder I would see people die on a daily basis. We walked into people's homes and sould see where they took their final breaths. I would see all of their photos on the walls; their entire life timeline. Baby pictures, wedding pictures, graduations, vacations and I wondered, "after this person's funeral...what happens to all of these photos, these memories of them?" The sad reality is pictures end up in a box or in the cloud forever to become forgotten! That realization was painful and lives with me to this day. That pain is what drives this mission. 
 
 ### Why The Startup. 
 
-June 3, 2017 my friend and fellow firefighter Kelly Wong, 29, died in the line of duty. To keep him from being forgotten, I had the idea to put his photo tribute slideshow on an engraved QR code on his memorial at the firehouse. That was too complicated and full of needless friction. DIY solutions, even with AI, have friction. DASH is removing that friction and making a beautiful way to be remembered.
+June 3, 2017 my friend and fellow firefighter Kelly Wong, 29, died in the line of duty. To keep him from being forgotten, I had the idea to put his photo tribute slideshow on an engraved QR code on his memorial at the firehouse. That was more complicated than it needed to be. DIY solutions, even with AI, have friction. DASH is removing that friction and making a beautiful way to be remembered.
 
-### Validation MVP Zero to One
+### No Funding. Bootstrapped. Validation MVP Zero to One
 
 I partnered with a local L.A. mortuary determine whether or not poeple would pay for this. I used analog methods (wix website https://dashqrcodes.com , Canva, Google photos, YouTube, qr app, video editing apps all on mobile!!!) Lots of pain. 
 
@@ -44,7 +44,7 @@ Results:
 - 98% customer satisfaction (2% were hard lessons we apply to QC today)
 - 30+ old photos animated with AI — families saw their loved ones young and free... in "heaven"
 
-I built and I am testing an MVP print-on-demand web app for mobile that let's customers of the funeral home to instantly create, order, add their loved ones slideshows onto their memorial service cards and canvas portrait keepsakes. I made it to save my sanity! LOL! 
+I built and I am testing something that can make money right now and save memories: an MVP print-on-demand web app for mobile that let's customers of the funeral home to instantly create, order, add their loved ones slideshows onto their memorial service cards and canvas portrait keepsakes. I made it to save my sanity! LOL! 
 MVP https://dashmemories.com 
 
 ### A Boring Business Opportunity: 
